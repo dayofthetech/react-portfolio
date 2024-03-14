@@ -1,0 +1,28 @@
+[
+    {
+        "role": "Web Development Fellow",
+        "company": "The Knowledge House",
+        "startDate": "September 2023",
+        "endDate": "Current",
+        "experiences": ["Build a React app that fetches API from a meme generator.",
+                        "Participate in technical mock interviews to solve data structure problems."],
+        "imgSrc": "skills/microsoft.png"
+    },
+    {
+        "role": "Community Organizer",
+        "company": "GALEO",
+        "startDate": "June 2023",
+        "endDate": "Current",
+        "experiences": ["Community enagegment.","Host voter registration events."],
+        "imgSrc": "skills/microsoft.png"
+    },
+    {
+        "role": "Tech Specialist",
+        "company": "DigiDems",
+        "startDate": "May 2022",
+        "endDate": "February 2023",
+        "experiences":  ["Lead cyber security program for staff.",
+                         "Create data reports using SQL."],
+        "imgSrc": "skills/microsoft.png"
+    }
+]

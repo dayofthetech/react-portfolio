@@ -1,0 +1,13 @@
+/* renaming to App.module.css to use modules
+from vite.config */
+
+/* since we are using variables var ( ) , we need to import
+with the @import from our variables styles dir */
+@import "./vars.css";
+
+.App {
+    background-color: var(--color-bg);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}

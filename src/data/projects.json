@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Portfolio",
+        "imgSrc": "projects/project.png",
+        "description": "Portfolio that show interaction between components and design",
+        "skills": ["Javascript", "React", "Figma"],
+        "demo": "",
+        "source": ""
+    }
+]
