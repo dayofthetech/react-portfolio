@@ -35,7 +35,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -55,7 +54,7 @@ The project uses Vite to build the application.
 
 ### Built With
 
-* [![React][React.io]][React-url]
+[![React][React.io]][React-url]
 * [![JavaScript][Javascript.io]][Javascript-url]
 * [![HTML][HTML.io]][HTML-url]
 * [![CSS][CSS.io]][CSS-url]
@@ -104,16 +103,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
@@ -132,7 +121,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/albertoreyes2021/
-[Javascript.io]:https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+[Javascript.io]:https://img.shields.io/badge/javascript-blue?logo=javascript
 [Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 [HTML.io]:https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
