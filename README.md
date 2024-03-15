@@ -113,7 +113,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [The Knowledge House](https://www.linkedin.com/school/theknowledgehouse/)
+[The Knowledge House](https://www.linkedin.com/school/theknowledgehouse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -22,6 +22,7 @@ export default function ProjectCard({ project: {title, description, imgSrc, skil
         </ul>
         <div className={styles.links}>
             <a href={'https://github.com/dayofthetech/react-portfolio'} className={styles.link} >Source - Currently private</a>
+            <a href={''} className={styles.link} >Demo</a>
         </div>
     </div>
   )

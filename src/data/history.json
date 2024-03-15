@@ -6,7 +6,7 @@
         "endDate": "Current",
         "experiences": ["Build a React app that fetches API from a meme generator.",
                         "Participate in technical mock interviews to solve data structure problems."],
-        "imgSrc": "skills/microsoft.png"
+        "imgSrc": "skills/companyIcon.png"
     },
     {
         "role": "Community Organizer",
@@ -14,7 +14,7 @@
         "startDate": "June 2023",
         "endDate": "Current",
         "experiences": ["Community enagegment.","Host voter registration events."],
-        "imgSrc": "skills/microsoft.png"
+        "imgSrc": "skills/companyIcon.png"
     },
     {
         "role": "Tech Specialist",
@@ -23,6 +23,6 @@
         "endDate": "February 2023",
         "experiences":  ["Lead cyber security program for staff.",
                          "Create data reports using SQL."],
-        "imgSrc": "skills/microsoft.png"
+        "imgSrc": "skills/companyIcon.png"
     }
 ]
