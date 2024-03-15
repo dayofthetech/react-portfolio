@@ -55,9 +55,9 @@ The project uses Vite to build the application.
 ### Built With
 
 [![React][React.io]][React-url]
-* [![JavaScript][Javascript.io]][Javascript-url]
-* [![HTML][HTML.io]][HTML-url]
-* [![CSS][CSS.io]][CSS-url]
+[![JavaScript][Javascript.io]][Javascript-url]
+[![HTML][HTML.io]][HTML-url]
+[![CSS][CSS.io]][CSS-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

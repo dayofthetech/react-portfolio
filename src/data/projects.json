@@ -1,7 +1,7 @@
 [
     {
         "title": "Portfolio",
-        "imgSrc": "projects/project.png",
+        "imgSrc": "projects/projectV2.png",
         "description": "Portfolio that show interaction between components and design",
         "skills": ["Javascript", "React", "Figma"],
         "demo": "",
