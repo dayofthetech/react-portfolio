@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dayofthetech">
-    <img src="./src/assets/backendcoding.jpg" alt="Logo" width="80" height="80">
+    <img src="./assets/backendcoding.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Portfolio</h3>
@@ -54,10 +54,10 @@ The project uses Vite to build the application.
 
 ### Built With
 
-[![React][React.io]][React-url]
-[![JavaScript][Javascript.io]][Javascript-url]
-[![HTML][HTML.io]][HTML-url]
-[![CSS][CSS.io]][CSS-url]
+[![React][React.io]][React-url] <br>
+[![JavaScript][Javascript.io]][Javascript-url] <br>
+[![HTML][HTML.io]][HTML-url] <br>
+[![CSS][CSS.io]][CSS-url] <br>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
