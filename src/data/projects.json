@@ -5,6 +5,14 @@
         "description": "Portfolio that show interaction between components and design",
         "skills": ["Javascript", "React", "Figma", "CSS"],
         "demo": "",
-        "source": ""
+        "source": "https://github.com/dayofthetech/react-portfolio"
+    },
+    {
+        "title": "Meme Generator",
+        "imgSrc": "projects/memegenerator.png",
+        "description": "App that fetches memes from API and lets user write messages",
+        "skills": ["Javascript", "React", "CSS", "ReactQuery"],
+        "demo": "",
+        "source": "https://github.com/dayofthetech/TKH-meme-generator/tree/main/meme-generator"
     }
 ]
