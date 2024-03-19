@@ -12,6 +12,8 @@
 .img {
     margin-bottom: 26px;
     border-radius: 10px;
+    width: 295px;
+    height: 195px;
 }
 .title {
     font-size: 26;

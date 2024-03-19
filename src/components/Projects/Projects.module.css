@@ -20,7 +20,6 @@
     justify-content: center;
     gap: 15px;
     width: 100%;
-
-    /* align-items: center; temp disable until multi img works */
+    align-items: center;
 }
 
