@@ -101,6 +101,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 * [ ] Improve design
+* [x] Add sticky navbar
+* [ ] When click on navbar links, scrolling covers headings
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

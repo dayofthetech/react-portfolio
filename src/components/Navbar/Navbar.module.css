@@ -1,13 +1,20 @@
 @import "../../vars.css";
 
 .navbar {
-    position: relative;
+    position: fixed;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 61px;
+    padding: 61px 10% 0 10%;
     z-index: 2;
-    margin: 0 10%;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.navbarbg {
+    background-color: var(--color-bg);
+    opacity: .9;
 }
 
 .title {

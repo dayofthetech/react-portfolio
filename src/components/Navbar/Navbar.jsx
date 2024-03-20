@@ -6,8 +6,20 @@ import { getImageUrl } from '../../utils';
 export default function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false);
 
+    // navbar change color when scrolling
+    const [color, setColor] = useState(false);
+    const changeColor = () => {
+        if (window.scrollY >= 90) {
+            setColor(true)
+        }else {
+            setColor(false)
+        }
+    }
+
+    window.addEventListener('scroll', changeColor)
+
   return (
-    <nav className={styles.navbar}>
+    <nav className={color ?  `${styles.navbar} ${styles.navbarbg}` : `${styles.navbar}`}>
         <a className={styles.title} href='/'>Portfolio</a>
         <div className={styles.menu}>
 
